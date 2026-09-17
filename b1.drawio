@@ -1,0 +1,22 @@
+<mxfile host="Electron" agent="ChatGPT">
+  <diagram id="student-class-diagram" name="Student Class Diagram">
+    <mxGraphModel dx="1030" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="86UuxCbyvp0H6Y7HuctE-1" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;strokeColor=#000000;strokeWidth=3;" value="&lt;span style=&quot;font-family: Arial; font-size: 22px; font-weight: 700; background-color: rgb(255, 255, 255);&quot;&gt;Student&lt;/span&gt;" vertex="1">
+          <mxGeometry height="365" width="260" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="86UuxCbyvp0H6Y7HuctE-2" parent="86UuxCbyvp0H6Y7HuctE-1" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;strokeWidth=3;" value="&lt;span style=&quot;font-family: Arial; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;- String studentId&lt;/span&gt;&lt;br style=&quot;font-family: Arial; font-size: 16px; text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;- String fullName&lt;/span&gt;&lt;br style=&quot;font-family: Arial; font-size: 16px; text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;- float averageScore&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="260" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="86UuxCbyvp0H6Y7HuctE-6" parent="86UuxCbyvp0H6Y7HuctE-1" style="line;strokeWidth=3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
+          <mxGeometry height="8" width="260" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="86UuxCbyvp0H6Y7HuctE-7" parent="86UuxCbyvp0H6Y7HuctE-1" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;strokeWidth=3;" value="&lt;span style=&quot;font-family: Arial; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;+ getScore() : float&lt;/span&gt;&lt;br style=&quot;font-family: Arial; font-size: 16px; text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;+ setScore(float score) : void&lt;/span&gt;" vertex="1">
+          <mxGeometry height="172" width="260" y="193" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
